@@ -1,0 +1,17 @@
+.container{
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: rgb(162, 95, 95);
+    text-align: center;
+    border: 10px solid black;
+    margin: 100px;
+    padding: 100px;
+}
+input{
+    font-size: xx-large
+}
+button{
+    width: 200px;
+    height: 150px;
+    font-size: xx-large;
+}
